@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SolutionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-13T08:33:23" hostname="yuanyu-ubuntu" time="0.035">
+<testsuite name="SolutionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-13T08:35:23" hostname="yuanyu-ubuntu" time="0.033">
   <properties/>
-  <testcase name="minDistanceDFSExample1()" classname="SolutionTest" time="0.028"/>
+  <testcase name="minDistanceDFSExample1()" classname="SolutionTest" time="0.027"/>
   <testcase name="minDistanceDFSExample2()" classname="SolutionTest" time="0.001"/>
-  <testcase name="minDistanceDFSExample3()" classname="SolutionTest" time="0.0"/>
+  <testcase name="minDistanceDFSExample3()" classname="SolutionTest" time="0.001"/>
   <testcase name="minDistanceExamples1()" classname="SolutionTest" time="0.001"/>
-  <testcase name="minDistanceExamples2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="minDistanceExamples2()" classname="SolutionTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
